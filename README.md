@@ -17,7 +17,7 @@ It displays current weather, hourly forecasts, 7-day trends, and an interactive 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-github-username>/weather-dashboard.git
+git clone https://github.com/soniareffadpro/Weather-Dashboard.git
 cd weather-dashboard
 ```
 
